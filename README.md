@@ -15,4 +15,4 @@ Usage:
 
 Example:
 
-    ./wallpaper_downloader.sh wallpaper_name page_count
+    ./wallpaper_downloader.sh <wallpaper_name> <page_count>
